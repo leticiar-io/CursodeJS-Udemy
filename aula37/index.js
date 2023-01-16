@@ -7,3 +7,7 @@ for (let valor of nome ) {
 /*nomes.forEach(function(valor, indice, array) {
     console.log(valor, indice, array)
 })*/
+
+// For Classico - Geralmente com iteraveis (arrays ou string)
+// For in - Retorna o indice ou chave (string, array ou objetos)
+// For of - Retorna o valor em si (iteraveis, arrays ou atrings)
